@@ -1,18 +1,21 @@
 <h1 align="center">Hi 👋, I'm José Cardoso</h1>
 <h3 align="center">A passionate fullstack developer from Brazil</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=jopnine&label=Profile%20views&color=0e75b6&style=flat" alt="jopnine" /> </p>
+
 - 🔭 I’m currently working on [IX:MedievalRP](https://github.com/jopnine/medievalrp/)
 
 - 🌱 I’m currently learning **Machine Learning**
 
-- 🤝 I’m looking for help with **IX:MedievalRP**
+- 🤝 I’m looking for help with **IX:MedievalRP** , if you know about helix and wish to collaborate, contact me.
 
 - 💬 Ask me about **React, Gmod, Helix**
 
-- 📫 How to reach me **José#0001**
+- 📫 How to reach me **Discord José#0001**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://linkedin.com/in/josecardososant" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="josecardososant" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
