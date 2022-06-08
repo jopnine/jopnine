@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Machine Learning**
 
-- 🤝 I’m looking for help with **IX:MedievalRP** , if you know about helix and wish to collaborate, contact me.
+- 🤝 I’m looking for help with **IX:MedievalRP** , if you know about [helix](https://github.com/NebulousCloud/helix) and wish to collaborate, contact me.
 
 - 💬 Ask me about **React, Gmod, Helix**
 
